@@ -4,3 +4,14 @@
  
 
  Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
+
+
+ ## Pasos
+
+ 1. Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
+
+ 2. Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
+
+ 3. Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
+
+ 4. Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
