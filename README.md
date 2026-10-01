@@ -65,3 +65,8 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 ---
 
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
+
+
+## Contatco 
+- Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
+- Vertical tabs moves your tabs to the side of your window, allowing you to see entire tab titles, easily manage tab groups, and free up vertical space. It’s the perfect setup if you typically have a lot of tabs open at once.
