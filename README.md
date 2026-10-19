@@ -65,6 +65,7 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 - 🟡 En desarrollo
 - 🔴 En planificación
 - 🔴 En desarrollo
+- 🔴 Finalizado
 
 ---
 
